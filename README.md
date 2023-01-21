@@ -16,3 +16,7 @@ sass assets/sass/base.scss assets/css/style.css --no-source-map
 Se quiser comprimido: => --style compressed
 
 Para ficar monitorando: => --watch, toda vez que alterar ele ja compila
+
+para monitorar a pasta toda, os aruivos tem que ter o mesmo nome: style.scss/style.css
+a sintaxe é assim:
+sass --watch assets/sass:assets/css --no-source-map --style compressed
