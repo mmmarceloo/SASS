@@ -13,3 +13,4 @@ sass assets/sass/base.scss assets/css/style.css --no-source-map
 
 Se quiser comprimido: => --style compressed
 
+Para ficar monitorando: => --watch
