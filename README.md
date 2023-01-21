@@ -11,3 +11,5 @@ sass assets/sass/base.scss assets/css/style.css
 se não quiser gerar o arquivo .map.
 sass assets/sass/base.scss assets/css/style.css --no-source-map
 
+Se quiser comprimido: => --style compressed
+
